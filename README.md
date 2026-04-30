@@ -1,5 +1,5 @@
 # AdaAttention Minimal
-
+# Important update: Please run on flashAttention kernel implemented machine, google colab provides excellent environment.
 AdaAttention is a minimal adaptive attention wrapper for the project:
 
 **Mechanism-Driven Analysis of Attention Scalability: From Memory Materialization to Adaptive Kernel Selection**
