@@ -1,4 +1,4 @@
-# AdaAttention Minimal
+# AdaAttention Minimal - CMU 11785 Project
 # Important update: Please run on flashAttention kernel implemented machine, google colab provides excellent environment.
 AdaAttention is a minimal adaptive attention wrapper for the project:
 
